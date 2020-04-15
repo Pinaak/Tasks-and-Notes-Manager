@@ -39,7 +39,7 @@
 *	Using common CSS library like jQuery allowed on frontend
 
 ## API Guide 
-### Some hints as to how the API should behave 
+Some hints as to how the API should behave 
 *	GET        /todos – list all todos in array
 *	POST     /todos – add a new todo
 *	GET        /todos/4 – details of todo with id = 4 
